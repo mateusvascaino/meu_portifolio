@@ -2,7 +2,7 @@
 
  :root {
     --cor-principal: rgb(26, 113, 114);
-    --cor-secundaria: white;
+    --cor-secundaria: rgb(0, 0, 0);
     --cor-destaque: grey;
  }
 
