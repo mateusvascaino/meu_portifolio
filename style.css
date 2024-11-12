@@ -2,4 +2,15 @@
 
  :root {
     --cor-principal: rgb(26, 113, 114);
+    --cor-secundaria: white;
+    --cor-destaque: grey;
+ }
+
+ body {
+    font-family: 'Kanit', sans-serif;
+ }
+
+ h1, h2, h5 {
+    color: var(--cor-secundaria);
+    
  }
